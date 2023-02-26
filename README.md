@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/3d-render-code-testing-functional-test-usability_107791-16607.jpg?w=1800&)](https://tomprint.github.io/portfolio/)
+<!--[![MasterHead](https://img.freepik.com/free-photo/3d-render-code-testing-functional-test-usability_107791-16607.jpg?w=1800&)](https://tomprint.github.io/portfolio/)-->
 
 <h1 align="center">Hi 👋, I'm Tomasz</h1>
 <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jj23jpvi11wuyz5k6jrs6klrorfnnuuaa00r8g2o&rid=giphy.gif&ct=g"> 
