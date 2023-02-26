@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomprint&label=Profile%20views&color=0e75b6&style=flat" alt="tomprint" /> </p>
 
-<h3 align="left"> 👨‍💻 Feel free to browse my portfolio at <h5> https://tomprint.github.io/portfolio/ </h5> </h3>
+<h3 align="left"> 👨‍💻 Feel free to check out some of my projects at <h5> https://tomprint.github.io/portfolio/ </h5> </h3>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
