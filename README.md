@@ -28,8 +28,18 @@
 
 <br/>
 
-<img align="right" width="340"
-  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="center">
+  <img
+    src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="360"
+    alt="Coding animation"
+    style="border-radius:12px"
+  />
+</p>
+
+<br/>
+
+---
 
 <h2>👨‍💻 Projects</h2>
 
